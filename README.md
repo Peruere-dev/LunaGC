@@ -1,5 +1,7 @@
 # LunaGC-7.0.0 WIP
 
+English · [简体中文](README_zh-CN.md) 
+
 > This project is no longer maintained. If you need it, please visit [AstaPS](https://github.com/Peruere-dev/AstaPS).
 
 ## Note from the maintainer
